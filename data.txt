@@ -1,3 +1,5 @@
 This file contains data of the user
 user name: XYZZ
 email: abc.gmail.com
+age : AA
+Address: HKKJ
